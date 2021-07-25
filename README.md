@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vali2o
 - 🌱 I’m currently working on Discord Bots in NodeJS
-- 😁 I want to learn Python and HTML
 - ✅ You can find me on Discord
 
 <!---
