@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vali2o
 - 🌱 I’m currently working on Discord Bots in NodeJS
-- ✅ You can find me on Discord
 
 <!---
 Vali2o/Vali2o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
