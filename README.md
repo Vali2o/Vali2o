@@ -25,10 +25,14 @@
 <img src="https://komarev.com/ghpvc/?username=vali2o&style=flat-square&color=blue"/>  
 </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<h1 align="center">Hello! 👋</h1>
+
+- :telescope: I’m working on Discord Bots in NodeJS.
+
+- :seedling: I want to learn more programming languages.
+
+- :zap: In my free time I like to try new things.
+
 
 <!---
 Vali2o/Vali2o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
