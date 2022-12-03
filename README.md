@@ -6,12 +6,6 @@
   <a href="https://youtube.com/c/Vali_2o">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://instagram.com/vali_2o">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="http://vali.eu.org">
-    <img src="https://img.shields.io/website?down_color=red&down_message=off&style=for-the-badge&up_color=blue&up_message=on&url=http%3A%2F%2Fvali.eu.org" alt="Website Badge"/>
-  </a>
   </a>
   <a href="https://twitter.com/vali_2o">
     <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
